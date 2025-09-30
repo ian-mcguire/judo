@@ -70,18 +70,18 @@ img {
     background-color: red;
   }
   25% {
-      background-color: purple;
+      background-color: green;
   }
   50% {
-    background-color: blue;
+    background-color: red;
   }
   75% {
-    background-color: purple;
+    background-color: green;
   }
   100% {
     background-color: red;
   }
 }
 body {
-  animation: fadecolors 1s ease-in infinite;
+  animation: fadecolors 20s ease-in infinite;
 }
