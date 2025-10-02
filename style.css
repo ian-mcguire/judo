@@ -83,7 +83,10 @@ footer {
   font-size: 0.9em;
   margin-top: 40px;
 }
-
+img {
+  width: 300px;
+  height: auto;
+}
 /* Animations */
 @keyframes fadeInDown {
   from { opacity: 0; transform: translateY(-20px); }
