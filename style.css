@@ -91,6 +91,9 @@ img {
   width: 800px;
   height: auto;
 }
+#wingding {
+  font-family: "Wingdings";
+}
 /* Animations */
 @keyframes fadeInDown {
   from { opacity: 0; transform: translateY(-20px); }
